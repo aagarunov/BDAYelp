@@ -1,0 +1,7 @@
+# ignoring these folders, too big to commit
+Graphs/
+RealAnalysis/
+TestCode/
+TestData/
+YelpData/
+YelpTables/
